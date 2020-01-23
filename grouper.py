@@ -1,12 +1,5 @@
 import csv
 
-groups = [
-  [],
-  [],
-  [],
-  []
-]
-
 def grouper(num_of_groups):
     groups = []
     for i in range(0, num_of_groups):
